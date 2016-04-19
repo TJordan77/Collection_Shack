@@ -12,6 +12,7 @@ if user <= 0:
         user = int(input("Put in a real number: "))
         if user <= 0:
             print("No, no, I'm done. Goodbye.")
+#Trying to find an easier way to loop it back to the main program after denying 0 | negative numbers.
 #^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #Generator (SoloLearn teaches us how to make one)
